@@ -11,5 +11,6 @@
   
 - givebonestodog.cpp : 게임 소스코드
 
-- img(folder) : 게임에 사용한 
+- img(folder) : 게임에 사용한 그림들 
+
   
